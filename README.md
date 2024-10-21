@@ -1,0 +1,1 @@
+A basic custom backend built using Node.js. You can continue to expand this by adding authentication, connecting to a database, and handling advanced features like real-time communication with WebSockets.
